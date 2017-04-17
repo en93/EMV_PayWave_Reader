@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PayWave Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_initial">Scan your Card</string>
+    <string name="pan">Primary Account Number: \n%s</string>
+    <string name="issuer">Card issued by: \n%s</string>
+    <string name="expiry">Expires on: \n%1$02d/%2$02d</string>
+    <string name="message_post">Here is your card info</string>
+    <string name="pan_initial">Primary Account Number: \n</string>
+    <string name="issuer_initial">Card issued by: \n</string>
+    <string name="expiry_initial">Expires on: \n</string>
+    <string name="message_nfc_off">Please enable NFC and restart the app</string>
+    <string name="message_ui_updated">Card read complete</string>
+    <string name="message_read_error">Error: Please rescan your card</string>
+</resources>
